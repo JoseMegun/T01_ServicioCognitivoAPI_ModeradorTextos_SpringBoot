@@ -1,1 +1,1 @@
-# T01_ServicioCognitivoAPI_ModeradorTextos_SpringBoot
+# T01_ServicioCognitivoAPI_SpringBoot
